@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chest",
+    "difficulty": "Intermediate",
+    "time": "25:00"
+  },
+  {
+    "name": "Chest",
+    "difficulty": "Advanced",
+    "time": "40:00"
+  },
+  {
+    "name": "Abs",
+    "difficulty": "Intermediate",
+    "time": "30:00"
+  },
+  {
+    "name": "Legs",
+    "difficulty": "Beginner",
+    "time": "10:00"
+  },
+  {
+    "name": "Arms",
+    "difficulty": "Advanced",
+    "time": "32:00"
+  },
+  {
+    "name": "Shoulders",
+    "difficulty": "Beginner",
+    "time": "9:00"
+  },
+  {
+    "name": "Shoulders",
+    "difficulty": "Intermediate",
+    "time": "18:00"
+  },
+  {
+    "name": "Shoulders",
+    "difficulty": "Advanced",
+    "time": "25:00"
+  }
+]
